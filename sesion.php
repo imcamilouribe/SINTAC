@@ -21,7 +21,7 @@
         $usuario  = $_POST['usuario'];
         $password = $_POST['password'];
 
-        $log = $log = "SELECT * FROM `usuarios` WHERE `id_usuario` = '$usuario' AND `contraseña` = '$password'";
+        $log = $log = "SELECT * FROM `usuarios` WHERE `id_usuario` = '$usuario' AND `contrasena` = '$password'";
 
         $sintac = mysqli_query($conectar, $log) or die("Algo ha ido mal en la consulta a la base de datos");
 
@@ -81,12 +81,12 @@
 
                 $actual = mysqli_query($conectar, "UPDATE `usuarios` SET `intentos`= '$intentotal' WHERE `id_usuario` = '$usuario'") or die("Algo ha ido mal en la consulta a la base de datos");
 
-                echo '<script> alert("Contraseña incorrecta.");</script>';
+                echo '<script> alert("Contraseï¿½a incorrecta.");</script>';
                 echo '<script> window.location="index.php"; </script>';
 
             } else {
 
-                echo '<script> alert("Este usuario y contraseña no estan registrados.");</script>';
+                echo '<script> alert("Este usuario y contraseï¿½a no estan registrados.");</script>';
                 echo '<script> window.location="index.php"; </script>';
 
             }

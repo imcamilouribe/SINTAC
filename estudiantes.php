@@ -88,9 +88,6 @@
                         </ul>
                         <ul class="navbar-nav pull-right">
                             <li class="nav-bar item">
-                                <a href="http://perseo.unitecnologica.edu.co" class="nav-link dropdown">SIRIUS</a>
-                            </li>
-                            <li class="nav-bar item">
                                 <a href="http://www.utbvirtual.edu.co/" class="nav-link dropdown">SAVIO</a>
                             </li>
                             <li class="nav-bar item">
@@ -140,12 +137,7 @@
 
             <!-- The slideshow -->
             <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img src="Images/bannersintac.png" alt="Equipo Web" width="100%">
-                </div>
-                <div class="carousel-item">
-                    <img src="Images/bannersintac1.png" alt="SINTAC" width="100%">
-                </div>
+                <img src="Images/bannersintac1.png" alt="SINTAC" width="100%">
             </div>
 
             <!-- Left and right controls -->
@@ -171,19 +163,19 @@
                     <div class="container" id="psin">
                         <p>
 
-                            Este Sistema nos permite llevar un registro de las sesiones que realizan los estudiantes con sus tutores, para que esto quede sistematizado y podamos llevar un control sobre todo lo que se lleva a cabo en cada sesión.
+                            Este Sistema nos permite llevar un registro de las sesiones que realizan los estudiantes con sus tutores, para que esto quede sistematizado y podamos llevar un control sobre todo lo que se lleva a cabo en cada sesion.
                             <br>
                             <br>
-                            <strong>¿Qué es una Tutoría?</strong>
+                            <strong>¿Que es una Tutoria?</strong>
 
-                            <br> La <strong>TUTORÍA</strong> es la actividad en la que el <strong>TUTOR</strong> y el alumno se reúnen físicamente para revisar el estado académico del estudiante, así como su avance y rendimiento y a partir de esa información el TUTOR da orientaciones y hace recomendaciones al estudiante, las cuales están orientadas a mejorar su desempeño académico
+                            <br> La <strong>TUTORIA</strong> es la actividad en la que el <strong>TUTOR</strong> y el alumno se reunen fisicamente para revisar el estado academico del estudiante, así como su avance y rendimiento y a partir de esa información el TUTOR da orientaciones y hace recomendaciones al estudiante, las cuales están orientadas a mejorar su desempeño académico
                             <br>
 
-                            <cite><strong>NOTA: </strong>Debemos tener claro que la tutoría NO ES un espacio para atención u orientación psicológica, temas que son cubiertos por los programas de Bienestar Universitario.</cite>
+                            <cite><strong>NOTA: </strong>Debemos tener claro que la tutoria NO ES un espacio para atencion u orientacion psicologica, temas que son cubiertos por los programas de Bienestar Universitario.</cite>
                             <br>
                         </p>
                         <hr class="my-4">
-                        <p class="text-center">Para tener un buen uso de <strong title="Sistema de Información de Tutorías Academicas">SINTAC</strong> lo invitamos a ver un pequeño tutorial de cómo Usar este sistema.
+                        <p class="text-center">Para tener un buen uso de <strong title="Sistema de Informacion de Tutorias Academicas">SINTAC</strong> lo invitamos a ver un pequeño tutorial de como usar este sistema.
                             <br>
                             <br>
                             <a class="btn btn-outline-success" title="Tutorial" href="#" role="button">Tutorial</a>

@@ -33,13 +33,13 @@
         echo '<div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
             <li class="nav-item">
-            <a class="nav-link" href="agendar_tutoria_estu.php">Agendar una tutoría<span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="agendar_tutoria_estu.php">Agendar una tutoria<span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-            <a class="nav-link" href="cancelar_estu.php">Cancelar tutoría<span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="cancelar_estu.php">Cancelar tutoria<span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-            <a class="nav-link" href="consultar_historial_tutorias_estu.php">Consultar historial de tutorías<span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="consultar_historial_tutorias_estu.php">Consultar historial de tutorias<span class="sr-only">(current)</span></a>
             </li>';
 
     } else if ($tipo > '1') {
@@ -58,9 +58,9 @@
             Tutorías
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="registrar_resultado_tutoria.php">Registrar el resultado de una tutoría</a>
+            <a class="dropdown-item" href="registrar_resultado_tutoria.php">Registrar el resultado de una tutoria</a>
             <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="cancelar_tutorias.php">Cancelar una tutoría específica</a>
+            <a class="dropdown-item" href="cancelar_tutorias.php">Cancelar una tutoria específica</a>
             </div>
             </li>
 
